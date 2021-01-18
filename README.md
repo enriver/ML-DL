@@ -1,3 +1,10 @@
 # ML/DL
 
-### 머신러닝/딥러닝 공부
+#### Studying about Machine Learning & Deep Learning
+
++ Machine-Learning Cookbook
++ Mathematics for Deep-Learning
++ Reinforcement-Learning (with prof.Sim)
++ Recommendation System (T-Academy)
++ Time-Series Analysis (T-Academy)
++ ADP - Certification studying
